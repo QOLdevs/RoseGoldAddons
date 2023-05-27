@@ -16,3 +16,8 @@ Commission Macros
 Fishing Modules
 Combat Modules
 and Many More features, some coming soon.
+
+
+To download go to releases.
+
+if you want to message me you can at Nivek#6023 on discord.
